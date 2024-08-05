@@ -1,16 +1,15 @@
-## Hi there 👋
+## pereira land 🥀
 
-<!--
-**pereira90/pereira90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Victor
 
-Here are some ideas to get you started:
+- Estou estudando [alura](https://wwww.alura.com.br)
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entrar contato comigo 📫
+
+  00001086623691sp@al.educacao.sp.gov.br
+  
+  @pereirasz.07
+
+![](https://media1.tenor.com/m/LO5LF4ge6jgAAAAC/teq-ultimate-gohan-teen-gohan.gif)
